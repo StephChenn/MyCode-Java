@@ -22,6 +22,6 @@ public class P26 {
             }
             q++;
         }
-        return p+1;
+        return p+1;//
     }
 }
